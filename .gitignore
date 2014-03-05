@@ -1,0 +1,10 @@
+*.swp
+*.zip
+*.sdf
+*.suo
+*.opensdf
+
+/Debug
+/Release
+
+*.vcxproj*
